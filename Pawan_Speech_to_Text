@@ -1,0 +1,57 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNrbaRILwyCG4fVlBb2QwRh",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/brpawankumariyengar-python/Word_Clous/blob/master/Pawan_Speech_to_Text\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "teUGb9Yu_GM8",
+        "colab_type": "text"
+      },
+      "source": [
+        "This is a python code we have created to convert speech to text.\n",
+        "we will use the following libraries for this purpose:\n",
+        "1.) speech_recognition\n",
+        "2.) pyaudio\n",
+        "3.) portaudio"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "4_sv55Wc_qmr",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "import speech_recognition\n",
+        "import pyaudio\n",
+        "import portaudio"
+      ],
+      "execution_count": 0,
+      "outputs": []
+    }
+  ]
+}
